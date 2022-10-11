@@ -1,0 +1,103 @@
+#############################################################
+#coloring synthax for Francais library
+#############################################################
+#############################################################
+#datatype (KEYWORD1)
+#############################################################
+
+Francais	KEYWORD1
+Syntaxe_francaise	KEYWORD1
+
+
+#############################################################
+#functions (KEYWORD2)
+#############################################################
+
+reunitialise	KEYWORD2
+affiche	KEYWORD2
+afficheln	KEYWORD2
+arrose	KEYWORD2
+disponible	KEYWORD2
+lire	KEYWORD2
+racineCarre	KEYWORD2
+logarithme	KEYWORD2
+exeponentiel	KEYWORD2
+cosinus	KEYWORD2
+sinus	KEYWORD2
+tangente	KEYWORD2
+reste	KEYWORD2
+sommes	KEYWORD2
+difference	KEYWORD2
+produit	KEYWORD2
+factoriel	KEYWORD2
+modulo	KEYWORD2
+numeriqueEcrire	KEYWORD2
+numeriqueLire	KEYWORD2
+delais	KEYWORD2
+analogiqueEcrire	KEYWORD2
+analogiqueLire	KEYWORD2
+bitLire	KEYWORD2
+taille	KEYWORD2
+exposant	KEYWORD2
+
+
+
+
+
+
+#############################################################
+#constants (LITERAL1)
+#############################################################
+
+vrai	LITERAL1
+faux	LITERAL1
+DECIMALE	LITERAL1
+OCTALE	LITERAL1
+HEXADECIMALE	LITERAL1
+BINAIRE	LITERAL1
+decimale	LITERAL1
+entier	LITERAL1
+booleen	LITERAL1
+Caractere	LITERAL1
+NumCaract	LITERAL1
+PARITE	LITERAL1
+ALLUMEE	LITERAL1
+ETEINTE	LITERAL1
+SORTANT	LITERAL1
+ENTRANT LITERAL1
+taille_de	LITERAL1
+enumeration	LITERAL1
+structure	LITERAL1
+type_de_definition	LITERAL1
+bite	LITERAL1
+
+
+
+
+
+
+
+
+#############################################################
+#structure	(#728E00 - GREEN)
+#############################################################
+
+si	#728E00 - GREEN
+sinon	#728E00 - GREEN
+switch	#728E00 - GREEN
+cas	#728E00 - GREEN
+changer	#728E00 - GREEN
+pour	#728E00 - GREEN
+reunitial	#728E00 - GREEN
+boucle	#728E00 - GREEN
+stop	#728E00 - GREEN
+
+
+
+
+
+
+
+
+
+
